@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UOjW7oImjMULmxUBVwUVodsM4gez9toQIjtGqrGopA0gakfYfrpTevwr9b9VB9YEXp65gn9H7/vGPpb37iqAQ==",
+  "success": true,
+  "projectFilePath": "/home/lucaszerone/ctfs/hackthebox/machines/visual/lmao/lucas/lucas.csproj",
+  "expectedPackageFiles": [
+    "/home/lucaszerone/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lucaszerone/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lucaszerone/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
